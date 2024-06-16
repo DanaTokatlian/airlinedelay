@@ -10,7 +10,7 @@ Getting accurate predictions is a complex issue since there are many factors inf
 
 Data Source
 Used a dataset from Kaggle, a dataset with large number of flight observations and nine different features.
-link
+[link](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay/data)
 
 Machine learning techniques used to make predictions
 - Logistic Regression
