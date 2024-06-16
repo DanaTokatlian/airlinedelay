@@ -9,7 +9,9 @@ Brief Summary
 Getting accurate predictions is a complex issue since there are many factors influence this.
 
 Data Source
-Used a dataset from Kaggle, a dataset with large number of flight observations and nine different features.
+
+Used a dataset from Kaggle, a dataset with large number of flight observations and nine different features. Find the link below,
+
 [link](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay/data)
 
 Machine learning techniques used to make predictions
